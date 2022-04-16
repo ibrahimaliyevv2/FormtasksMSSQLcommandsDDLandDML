@@ -21,21 +21,36 @@ Aşağıdakı təlimatlara uyğun query yazın:
 --Course Database
 
 -- Students table
+
 -- Id - avtomatik artmalidi
+
 -- Name - null ola bilmez
+
 -- Surname - default olaraq qeyd olunmasa 'xxx' olmalidi
+
 -- Age - null ola bilmez
+
 -- Point - null ola bilmez
 
+
 -- table-a data elave edin --3 dene hamisi olan deyer.
+
 -- surname-i qeyd etmeden table-a data elave edin
+
 -- studentin butun melumatlarini gosterin
+
 -- Surname-i xxx olan datalarin surname-ni update edib deyishin.
+
 -- Id-i 1 olan datani point deyerini deyishin.
+
 -- Point deyeri 70 ile 90 arasinda olan butun datalari gosterin.
+
 -- Point deyerleri azalan sirayla gosterin.
+
 -- Age deyeri 21-den kicik olan datalarin name ve surname-lerini 
+
 -- gosterin
+
 -- Table-a AvaregePoint deyeri elave edin ve yoxlayın.
 
 Task-5:
